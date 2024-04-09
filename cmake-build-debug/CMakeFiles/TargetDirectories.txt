@@ -1,0 +1,3 @@
+C:/Users/alsha/Desktop/DVC/Year Two/Fall 2021/COMSC-210/Final Project/ DVC-Food-Pantry/cmake-build-debug/CMakeFiles/_DVC_Food_Pantry.dir
+C:/Users/alsha/Desktop/DVC/Year Two/Fall 2021/COMSC-210/Final Project/ DVC-Food-Pantry/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alsha/Desktop/DVC/Year Two/Fall 2021/COMSC-210/Final Project/ DVC-Food-Pantry/cmake-build-debug/CMakeFiles/rebuild_cache.dir

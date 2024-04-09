@@ -1,0 +1,16 @@
+StudentName12	1000012	email@email.com	2
+StudentName11	1000011	email@email.com	3
+StudentName13	1000013	email@email.com	4
+StudentName14	1000014	email@email.com	5
+StudentName10	1000010	email@email.com	6
+StudentName8	1000008	email@email.com	7
+StudentName9	1000009	email@email.com	8
+StudentName5	1000005	email@email.com	9
+StudentName7	1000007	email@email.com	10
+StudentName6	1000006	email@email.com	11
+StudentName3	1000003	email@email.com	12
+StudentName4	1000004	email@email.com	13
+StudentName2	1000002	email@email.com	14
+			0
+Aiman Al Sharai	18394235	aalsharai@insite.4cd.edu	1
+Moe Tom	15975346	moe@gmail.com	3

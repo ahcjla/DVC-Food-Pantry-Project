@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/alsha/Desktop/DVC/Year Two/Fall 2021/COMSC-210/Final Project/ DVC-Food-Pantry/Delivery.cpp
+iostream
+-
+map
+-
+string
+-
+cstring
+-
+cctype
+-
+Delivery.h
+C:/Users/alsha/Desktop/DVC/Year Two/Fall 2021/COMSC-210/Final Project/ DVC-Food-Pantry/Delivery.h
+
+C:/Users/alsha/Desktop/DVC/Year Two/Fall 2021/COMSC-210/Final Project/ DVC-Food-Pantry/Delivery.h
+map
+-
+
